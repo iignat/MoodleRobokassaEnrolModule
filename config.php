@@ -1,4 +1,4 @@
 <?php
 
-    $endpoint_url = "https://auth.robokassa.kz/Merchant/Index.aspx?";
+    $endpoint_url = "https://auth.robokassa.ru/Merchant/Index.aspx?";
 ?>
